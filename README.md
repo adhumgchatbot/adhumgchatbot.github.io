@@ -1,2 +1,1 @@
-# adhumgchatbot.github.io
-Trang quản lý Humg Chatbot
+# Admin dashboard for [HUMGChatbot](https://github.com/humgchatbot/humgchatbot)
