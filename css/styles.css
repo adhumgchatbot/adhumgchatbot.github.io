@@ -930,10 +930,10 @@ h1.page-header {
 }
 
 .logo {
-  //max-width: 600px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 20px 0;
-  //height: 400px;
+  height: 400px;
   text-align: center;
 }
 
