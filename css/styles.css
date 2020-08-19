@@ -98,6 +98,9 @@ h3, h4 {
 	color: #30a5ff;
 }
 
+.navbar-header .navbar-brand h1 span {
+	color: #fff;
+}
 /*Buttons*/
 
 a.btn:hover,
