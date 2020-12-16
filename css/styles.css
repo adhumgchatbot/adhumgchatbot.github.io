@@ -942,7 +942,7 @@ h1.page-header {
     overflow-y: auto;
 }
 
-.scoll-2 {
+.scollwr {
     width: auto;
     height: 430px;
     overflow-x: hidden;
